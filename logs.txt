@@ -1,0 +1,8 @@
+ae7a06c Merge branch 'RD' into Master
+0a7948a invie responsive
+06d1c68 hotfix 1
+4eb6a0d Agregando clasica
+feb8639 Agregando acustica
+2e40459 Agregando hero
+1d82a47 Agregando el header
+6391f72 inicializar nuestro landing
